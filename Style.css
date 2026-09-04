@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+p, li {
+    font-size: 18px;
+}
