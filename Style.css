@@ -69,4 +69,17 @@ body {
 .project p {
     font-size: 15px;
 }
+nav {
+    background: white;
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 12px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: #4a55a2;
+    font-weight: bold;
+}
 
