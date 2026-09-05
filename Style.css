@@ -51,3 +51,22 @@ body > * {
 body {
     background: lightblue !important;
 }
+.project {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px #999;
+}
+
+.project h4 {
+    color: #4a55a2;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.project p {
+    font-size: 15px;
+}
+
