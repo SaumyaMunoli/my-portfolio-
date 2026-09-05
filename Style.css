@@ -97,5 +97,8 @@ li {
     border-radius: 10px;
     font-weight: bold;
 }
+.project:hover {
+    transform: scale(1.03);
+}
 
 
