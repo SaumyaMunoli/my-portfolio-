@@ -100,5 +100,13 @@ li {
 .project:hover {
     transform: scale(1.03);
 }
+h3 {
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
 
 
