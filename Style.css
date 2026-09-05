@@ -89,4 +89,13 @@ nav a {
     background: white;
     border-radius: 8px;
 }
+li {
+    display: inline-block;
+    margin: 8px;
+    padding: 12px 18px;
+    background: white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
 
