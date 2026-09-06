@@ -111,7 +111,9 @@ h3 {
 .profile-photo {
     width: 80%;
     max-width: 500px;
-    height: auto;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
     display: block;
     margin: 20px auto;
     border-radius: 20px;
