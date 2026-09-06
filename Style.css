@@ -108,5 +108,14 @@ h3 {
 .project {
     margin-bottom: 20px;
 }
+.profile-photo {
+    width: 80%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
 
 
